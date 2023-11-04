@@ -370,7 +370,7 @@ nav .navbar .links li:hover .js-sub-menu {
 
 @media (max-width: 768px) {
   .home-section {
-    margin-top: 4rem;
+    margin-top: 8rem;
     display: flex;
     flex-direction: column-reverse;
     align-items: center;

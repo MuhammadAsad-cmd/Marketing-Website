@@ -436,7 +436,7 @@ nav .navbar .links li:hover .js-sub-menu {
 .slider-container {
   width: 100%;
   height: 80px;
-  margin-top: 24rem;
+  margin-top: 22rem;
   position: absolute;
   top: 100%;
   left: 50%;
@@ -467,7 +467,7 @@ nav .navbar .links li:hover .js-sub-menu {
   .slider-container {
     width: 100%;
     height: 80px;
-    margin-top: 6rem;
+    margin-top: 7rem;
     position: absolute;
     top: 100%;
     left: 50%;
@@ -578,6 +578,9 @@ nav .navbar .links li:hover .js-sub-menu {
 }
 
 @media (max-width: 768px) {
+  .main {
+    margin-top: 10rem;
+  }
   .lower-main {
     display: flex;
     flex-direction: column;
